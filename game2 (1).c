@@ -10,6 +10,14 @@ int a[100];
 int b[100];
 char walk;
 
+
+
+
+
+
+
+
+
 void generateMap(int p, int q, int R){
 	int i,j;
 	for(i=0; i<100; i++){
